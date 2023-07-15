@@ -3,9 +3,9 @@ A program that reads celebrity birthday information from a file and provides an 
 
 The following functionalities are available:
 
-• Option 1: to load a birthday file 
-• Option 2: to list birthdays sorted by Month-Day 
-• Option 3: to lookup a birthday 
-• Option 4: to add a birthday 
-• Option 5: to save a new birthday file 
-• Option 6: to terminate the program – thank the user and end the program.
+• Option 1: to load a birthday file <br>
+• Option 2: to list birthdays sorted by Month-Day <br>
+• Option 3: to lookup a birthday <br>
+• Option 4: to add a birthday <br>
+• Option 5: to save a new birthday file <br>
+• Option 6: to terminate the program <br>
